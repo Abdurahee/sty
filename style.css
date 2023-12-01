@@ -1,0 +1,97 @@
+body{
+  background-image:url(lap.jpg);
+  background-color:khaki;
+    background-size: cover;
+    text-decoration:solid black ;
+}
+
+.top{background-color: #E4f9f5;height: 500px;
+
+
+}
+.middle{
+    background-color: tomato;height: 400px;width:100px px; margin-top: 40px;
+    
+}
+.bottom{
+    background-color: ;height: 400px;margin-top: 50px;
+    text-decoration-color: blanchedalmond;
+    color: white;
+}
+
+    .nav2 {
+        
+        padding: 20px;
+        margin: 20px;
+        gap: 30px;
+        font-weight: bold;
+        font-size: 2rem;
+        font-weight: bold;
+        
+    }
+    .nav2 a:link {
+        text-decoration: none;
+      }
+      .nav2 a:hover {
+        color:black;
+      }
+
+.img{
+    border-radius:80%;
+   margin-bottom: 100% ;
+    margin-right:  10%; ;
+    height: 300px;
+    width: 200px;
+    float: right;
+    overflow: auto;
+
+}
+.text{text-align: center;
+margin-bottom: px;
+margin-right: 50%;
+;
+}
+.nav {
+    display:flex;
+    justify-content:flex-end;
+    padding: 20px;
+    margin: 20px;
+    gap: 30px;
+    font-weight: bold;
+    font-size: 2rem;
+    ;
+  }
+
+.nav a:link {
+    text-decoration: none;
+  }
+  .nav a:hover {
+    color: black;
+  }
+.img2{
+    height: 32%;width: 38% ;
+    margin-left: 20%;
+    border-radius: 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
